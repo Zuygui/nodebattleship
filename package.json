@@ -5,6 +5,9 @@
   "author": {
     "name": "Zuygui"
   },
+  "script": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "express": "4.12.3",
     "html-entities": "1.1.2",
